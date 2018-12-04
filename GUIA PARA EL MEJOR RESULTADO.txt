@@ -1,0 +1,13 @@
+Guia correr el mejor resultado
+
+crear una carpeta que se llame data que contenga los siguientes archivos:
+events_up_to_01062018
+labels_training_set
+trocafone_kaggle_test
+
+Pasos:
+1-Completar la matriz con el notebook "CompleData"
+2-Usar el notebook "Map"
+3-Luego "map2","map3","map4","map5","map6","maptime" y "mapurl"
+4-Correr en random forest de la carpeta algorithms
+
